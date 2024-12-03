@@ -1,0 +1,1 @@
+DroopBot is a discord bot that can create and fill queues of players for certain games. Uses the new discord slash commands to create queues with customs parameters including players, name, and time. Once enough players join the queue it will notify all players that their game is ready and the queue will pop off the stack.
